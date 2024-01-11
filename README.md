@@ -1,0 +1,1 @@
+# automorphicNumbers_Codewars_Challenge
